@@ -1,2 +1,2 @@
 # NeuralODE
-This repository contains code for course Deep Learning 02456.
+This repository contains code for the course Deep Learning 02456.
